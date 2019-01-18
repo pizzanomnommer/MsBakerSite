@@ -1,0 +1,21 @@
+body{
+    width: 25cm;
+    margin: auto;
+    background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
